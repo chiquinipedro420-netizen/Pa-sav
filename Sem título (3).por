@@ -1,11 +1,21 @@
 programa {
   funcao inicio() {
-    real salario,total
-escreva("Digite salario: ")
-leia (salario)
+    real farenheit,celsius,total
 
-total=salario/30
-escreva("o salario é: ",total )
+
+escreva("informe a temperatura em celsius")
+leia(celsius)
+
+escreva("informe a temperatura em farenheit ")
+leia(farenheit)
+
+
+total=((5/9(f-32)
+ 
+ escreva("o total é:",total)
+
+
+
 
 
 

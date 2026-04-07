@@ -1,17 +1,47 @@
 programa {
   funcao inicio() {
-    inteiro base,altura,total
-
-escreva("Digite base: ")
-leia(base)
+ caracter nome,idade  
 
 
-escreva("Digite altura: ")
-leia(altura)
+escreva("Digite o nome: ")
+leia("nome")
+
+escreva("Digite idade:")
+leia(idade)
+
+escreva("o nome e a idade é:",nome,idade)
 
 
-total=base*altura
-escreva("a multiplicação é: ",total)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   }
 }

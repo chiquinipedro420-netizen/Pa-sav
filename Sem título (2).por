@@ -1,17 +1,28 @@
 programa {
   funcao inicio() {
-    inteiro base,altura,total
+    real pi,raio,total
 
-escreva("Digite base: ")
-leia(base)
-
-
-escreva("Digite altura: ")
-leia(altura)
+   escreva("Digite o raio:")
+leia(raio)
 
 
-total=base*altura
-escreva("a multiplicação é: ",total)
+escreva("digite pi:")
+leia(pi)
+
+
+total=pi*raio*raio
+
+escreva("o total é:",total)
+
+
+
+
+
+
+
+
+
+
 
   }
 }
