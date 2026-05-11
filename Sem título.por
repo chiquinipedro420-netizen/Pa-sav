@@ -1,15 +1,30 @@
 programa {
   funcao inicio() {
-  
-    real n1, n2, resultado
+    real mes_1 , mes_2 , mes_3 , mes_4 ,mes_5 , mes_6 , mes_7, mes_8 , mes_9, mes_10 , mes_11 , mes_12, mes
+  caracter janeiro , fevereiro , marco , abril , maio , junho , julho, agostov, setembro , outubro , novembro, dezembro
 
- escreva("digite n1 :")
- leia(n1)
+escreva("infome o mes: ")
+ leia(mes)
 
-escreva("digite n2 :")
- leia(n2)
+se(mes_1 == janeiro){
+escreva
 
- escreva("escolha opção :")
+
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -19,5 +34,4 @@ escreva("digite n2 :")
 
 
   }
-
 }
